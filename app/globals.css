@@ -74,3 +74,6 @@ body {
     @apply bg-background text-foreground;
   }
 }
+.test{
+  color: hsl( 60 9.1% 97.8%);
+}

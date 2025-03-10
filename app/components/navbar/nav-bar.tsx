@@ -1,4 +1,4 @@
-import { ModeToggle } from "@/app/dark-mode";
+import { ModeToggle } from "@/components/dark-mode";
 import { MdElectricBolt } from "react-icons/md";
 
 export default function Navbar() {
